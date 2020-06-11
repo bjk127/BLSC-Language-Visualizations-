@@ -6,4 +6,5 @@ Please send any inquiries or questions you may have.
 
 Quick Links:
 - [Brill Publishing](https://brill.com)
-- [Series on Language Cognition, and Culture](https://brill.com/view/serial/BSLC)
+- [Brill's Series on Language Cognition, and Culture](https://brill.com/view/serial/BSLC)
+- [Ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
